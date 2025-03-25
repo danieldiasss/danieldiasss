@@ -7,7 +7,7 @@
 📌Cursando o 2º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-#####  Trabalhando atualmente com:
+#####  Experiência com:
 
 <div>
    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
