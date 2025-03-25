@@ -31,7 +31,7 @@
 ##
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?danieldiasss=danieldiasss&theme=tokyonight)" alt="danieldiass github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldiasss&theme=tokyonight)" alt="danieldiass github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldiasss&theme=vue-dark&hide_border=true" />
   
 </div>
