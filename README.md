@@ -1,6 +1,6 @@
-Bem vindos 😄
+### Bem vindos 😄
 
-Sou Daniel Dias, programador e estudante de Ciência da Computação.
+## Sou Daniel Dias, programador e estudante de Ciência da Computação.
 
 ##
 📌 Atuando como suporte de TI.  <br>
