@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-📌 Atuando como suporte de TI  <br>
+📌 Atuando como suporte de TI.  <br>
 📌Cursando o 2º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
