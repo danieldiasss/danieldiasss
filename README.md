@@ -3,8 +3,8 @@
 ## Sou Daniel Dias, programador e estudante de Ciência da Computação.
 
 ##
-📌 Atuando como suporte de TI.  <br>
-📌Cursando o 2º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
+📌Atuando como suporte de TI na Engelmig Energia.  <br>
+📌Cursando o 3º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Experiência com:
