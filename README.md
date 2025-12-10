@@ -4,7 +4,7 @@
 
 ##
 📌Atuando como suporte de TI na Engelmig Energia.  <br>
-📌Cursando o 3º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
+📌Cursando o 4º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Experiência com:
@@ -14,6 +14,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-101011?style=for-the-badge&logo=github&logoColor=white)
       
